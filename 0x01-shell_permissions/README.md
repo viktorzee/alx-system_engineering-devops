@@ -1,1 +1,1 @@
-Read me for shell scripting
+This is shell scripting
